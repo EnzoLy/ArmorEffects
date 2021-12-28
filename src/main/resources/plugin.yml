@@ -1,0 +1,11 @@
+name: AmorEffects
+main: me.enzo.armoreffects.ArmorEffects
+author: EnzoL_
+version: 1.0
+commands:
+  effectitem:
+    description: Give a player an effect
+    aliases: [effecti, effi]
+    permission: amoreffects.effectitem
+    minArgs: 3
+    maxArgs: 3
